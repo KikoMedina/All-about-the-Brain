@@ -19,5 +19,33 @@ header {
     background-color: rgb(36, 179, 55);
 }
 
+footer {
+    padding: 15px;
+    margin-top: 15px;
+    color: rgb(255, 252, 251);
+    background-color: rgb(36, 179, 55);
+}
+
+
+
+
+.news-card {
+    text-align: left;
+    padding: 20px;
+    margin: 20px;
+    width: 350px;
+    background: white;
+}
+
+.news.card h3 {
+    color:rgb(63, 33, 33);
+}
+
+.news.card a {
+    color:rgb(19, 123, 141);
+    font-weight: bold;
+    text-decoration: none;
+}
+
 
 
