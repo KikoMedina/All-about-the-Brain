@@ -14,3 +14,7 @@ async function fecthNews() {
         console.error("Fehler beim Abrufen der Nachrichten", error);
     }
 }
+
+function displayNews(articles)  {
+    
+}
